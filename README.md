@@ -1,6 +1,7 @@
 # Hi there 👋
 ## Never forget what I felt 04/18/22 and 05/07/22
 
+<img src="https://velog.velcdn.com/images/jin418code/post/4569d556-02b6-4403-9cbb-c96fb417a6f9/image.svg/Swift-F05138=flat-square&logo=Swift&logoColor=black"/>
 
 <!--
 **Jin418code/Jin418code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
