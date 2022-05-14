@@ -11,7 +11,7 @@ Future app developer who loves learning new.
   
 
   
-First step with Swift. But what'll be next step? Can't wait for the next step. 
+First step with Swift. But what'll be next step? Can't wait for the next step. <br/>
 I'll learn and conquer them all. let's start the party 🥳
 
 
