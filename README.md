@@ -5,13 +5,16 @@
 <a href="https://www.instagram.com/jin418code/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://velog.io/@jin418code/"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
-  <br/>
+<br/>
+
 Future app developer who loves learning new.
   
 <br/>
+  
 First step with Swift. But what'll be next step? Can't wait for the next step. I'll learn and conquer them all. let's start the party 🥳
 
 <br/>
+  
 Human can betray me. But effort and studying will not betray me.
 
 <br/>
