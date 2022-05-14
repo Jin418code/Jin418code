@@ -12,11 +12,13 @@ Future App developer who loves learning new.
 
   
 First step with Swift. But what'll be next step? Can't wait for the next step. <br/>
-I'll learn and conquer them all. let's start the party 🥳
+I'll learn and conquer them all. Let's start the party of studying 🥳
 
 
   
-Human can betray me. But effort and studying will not betray me.
+Human can betray me. But effort and studying will not betray me. <br/>
+Never excuse. Never give up. Never doubt myself.
+
 
 
 
