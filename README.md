@@ -1,4 +1,4 @@
-# Hello, I am Jin. 
+<center> # Hello, I am Jin. </center> 
 
 <br/>
 Future app developer who loves learning new.
@@ -8,7 +8,6 @@ Future app developer who loves learning new.
 First step with Swift. But what'll be next step? Can't wait for the next step. I'll learn and conquer them all. let's start the party 🥳
 
 <br/>
-
 Human can betray me. But effort and studying will not betray me.
 
 <br/>
