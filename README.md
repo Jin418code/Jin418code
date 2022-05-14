@@ -18,6 +18,10 @@ I'll learn and conquer them all. let's start the party 🥳
   
 Human can betray me. But effort and studying will not betray me.
 
+
+
+Never forget what I felt on 04/18/22 and never forget what I decided on 05/07/22 
+
 <br/>
   
 ----------------------------
