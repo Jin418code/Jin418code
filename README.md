@@ -14,19 +14,17 @@ Human can betray me. But effort and studying will not betray me.
 <br/>
 
 ## 📖 Languages <br/>
------------------
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 <br/>
   
 ## 🛠 Tools <br/>
------------------
-
+  
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <br/>
 
 ## 📘 List of what will place to up lists <br/>
-------------------
+
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
