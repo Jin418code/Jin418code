@@ -16,7 +16,7 @@ Human can betray me. But effort and studying will not betray me.
 <br/>
 
 🛠 Tools <br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Git&logoColor=white"/>
 <br/>
 
 📘 List of what will place to up lists <br/>
