@@ -7,7 +7,7 @@
 
 
 
-Future app developer who loves learning new.
+Future App developer who loves learning new.
   
 
   
