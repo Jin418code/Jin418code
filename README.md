@@ -1,4 +1,4 @@
-<center> # Hello, I am Jin. </center> 
+# <center> Hello, I am Jin. </center> 
 
 <br/>
 Future app developer who loves learning new.
