@@ -11,10 +11,9 @@ First step with Swift. But what'll be next step? Can't wait for the next step. <
 Let's start the party of studying 🥳
 
 Never forget what I felt on 04/18/22 <br/>
-Never forget what I decided on 05/07/22 
-
+Never forget what I decided on 05/07/22
 <br/>
-  
+
 ----------------------------
 
 ### 📖 Languages <br/>
