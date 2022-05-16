@@ -1,5 +1,3 @@
-<div align="center">
-
 ### 👋 Hello, I am Jin 👋 <br/>
 <a href="https://github.com/Jin418code"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> 
 <a href="https://www.instagram.com/jin418code/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -8,19 +6,9 @@
 
 
 Future App developer who loves learning new.
-  
 
-  
 First step with Swift. But what'll be next step? Can't wait for the next step. <br/>
-I'll learn and conquer them all. Let's start the party of studying 🥳
-
-
-  
-Human can betray me. But effort and studying will not betray me. <br/>
-Never excuse. Never give up. Never doubt myself.
-
-
-
+Let's start the party of studying 🥳
 
 Never forget what I felt on 04/18/22 <br/>
 Never forget what I decided on 05/07/22 
@@ -60,5 +48,3 @@ Never forget what I decided on 05/07/22
 <br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJin418code%2FJin418code&count_bg=%2367E244&title_bg=%2348494F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
