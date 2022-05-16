@@ -5,9 +5,9 @@
 
 
 
-Future App developer who loves learning new.
+I am Jin, future App developer from South Korea 🇰🇷
 
-First step with Swift. But what'll be next step? Can't wait for the next step. <br/>
+First step with Swift. But what'll be next step? Can't wait for learning new <br/>
 Let's start the party of studying 🥳
 
 Never forget what I felt on 04/18/22 <br/>
@@ -30,11 +30,7 @@ Never forget what I decided on 05/07/22
 
 ### 📘 List of what will place to up lists <br/>
 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX-&logoColor=white">
-<img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=CocoaPods-&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX-&logoColor=white"> <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=CocoaPods-&logoColor=white">
 
 <br/>
 <br/>
