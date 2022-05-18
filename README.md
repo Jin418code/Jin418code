@@ -39,7 +39,7 @@ Never forget what I decided on 05/07/22
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jin418code&langs_count=8)](https://github.com/Jin418code/github-readme-stats)
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Jin418code=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jin418code&show_icons=true&theme=radical)
 
 <br/>
 
