@@ -34,7 +34,10 @@ Never forget what I decided on 05/07/22
 
 <br/>
 <br/>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
 
 <br/>
 
