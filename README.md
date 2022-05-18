@@ -39,7 +39,8 @@ Never forget what I decided on 05/07/22
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jin418code&langs_count=8)](https://github.com/Jin418code/github-readme-stats)
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jin418code&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Jin418code=anuraghazra&count_private=true)
+
 <br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJin418code%2FJin418code&count_bg=%2367E244&title_bg=%2348494F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
