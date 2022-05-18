@@ -36,9 +36,6 @@ Never forget what I decided on 05/07/22
 <br/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Jin418code=anuraghazra&count_private=true)
-
-
 <br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJin418code%2FJin418code&count_bg=%2367E244&title_bg=%2348494F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
