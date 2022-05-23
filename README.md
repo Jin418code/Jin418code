@@ -10,6 +10,9 @@ I am Jin, future App developer from South Korea 🇰🇷
 First step with Swift. But what'll be next step? Can't wait for learning new <br/>
 Let's start the party of studying 🥳
 
+For now, I am so curious how I'll be 1 year later
+Everything is on me
+
 Never forget what I felt on 04/18/22 <br/>
 Never forget what I decided on 05/07/22
 <br/>
