@@ -1,5 +1,4 @@
 ### 👋 Hello, I am Jin 👋 <br/>
-<a href="https://github.com/Jin418code"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> 
 <a href="https://www.instagram.com/jin418code/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://velog.io/@jin418code/"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
