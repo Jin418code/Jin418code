@@ -9,7 +9,7 @@ I am Jin, future iOS developer from South Korea 🇰🇷
 First step with Swift. <br/>
 I step into this field quite late. <br/>
 I am late, but I have endless energy for learning and willpower. <br/>
-But I have the most highest motivation that cannot be compared to anyone else. <br/>
+And I have the most highest motivation that cannot be compared to anyone else. <br/>
 I'll do everything to reach my goal. And I'll smile while I remind my hard past life. <br/>
 For it, I'll run. I have to run. I am ready for all <br/>
 
