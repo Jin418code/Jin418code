@@ -17,8 +17,8 @@ When that future becomes present, I'll enjoy my life with present from me <br/>
 For now, I am so curious how I'll be 1 year later <br/>
 Everything is on me <br/>
 
-Never forget what I felt on 04/18/22 <br/>
-Never forget what I decided on 05/07/22
+Never forget what I felt on bday 04/18/22 <br/>
+Never forget what I heard and decided on 05/07/22
 <br/>
 
 ----------------------------
