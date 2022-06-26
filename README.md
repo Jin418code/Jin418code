@@ -12,7 +12,6 @@ I am late, but I have endless energy for my effort and learning. <br/>
 And I have the most highest motivation that cannot be compared with anyone else. <br/>
 I'll do everything to reach my goal and I'll smile while I remind my hard past life then. <br/>
 For it, I'll run. I have to run. I am ready for all <br/>
-When that future becomes present, I'll enjoy my life with present from me <br/>
 
 For now, I am so curious how I'll be 1 year later <br/>
 Everything is on me <br/>
