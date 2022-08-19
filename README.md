@@ -3,7 +3,7 @@
 
 
 
-I am Jin, future iOS developer from South Korea 🇰🇷
+I am Jin, iOS developer from South Korea 🇰🇷
 
 First step with Swift. <br/>
 I step into this field quite late. <br/>
