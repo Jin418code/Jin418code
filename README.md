@@ -6,12 +6,6 @@
 I am Jin, iOS developer from South Korea 🇰🇷
 
 First step with Swift. <br/>
-I step into this field quite late. <br/>
-I am late, but I have endless energy for my effort and learning. <br/>
-And I have the most highest motivation that cannot be compared with anyone else :) <br/>
-I'll do everything to reach my goal and I'll smile while I remind my hard past life then. <br/>
-
-For now, I am so curious how I'll be 1 year later <br/>
 Everything is on me <br/>
 <br/>
 
